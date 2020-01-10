@@ -110,7 +110,7 @@
 
 ## Task Queue
 
-- [dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable distributed task processing library for Python 3
+- [Flask-Dramatiq](https://flask-dramatiq.rtfd.io/) - [dramatiq](https://github.com/Bogdanp/dramatiq) integration for Flask applications.
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [Flask-RQ](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
 - [celery](https://github.com/celery/celery/) - Distributed Task Queue
@@ -156,6 +156,7 @@
 - [pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
 - [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - Automatically monitor the evolving performance of Flask/Python web services.
 - [nplusone](https://github.com/jmcarp/nplusone#flask-sqlalchemy) - Auto-detect n+1 queries with Flask and SQLAlchemy
+- [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
 
 ## Utils
 
